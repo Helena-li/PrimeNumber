@@ -1,0 +1,15 @@
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/bin/Release/net6.0/PrimeNumber
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/bin/Release/net6.0/PrimeNumber.deps.json
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/bin/Release/net6.0/PrimeNumber.runtimeconfig.json
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/bin/Release/net6.0/PrimeNumber.dll
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/bin/Release/net6.0/ref/PrimeNumber.dll
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/bin/Release/net6.0/PrimeNumber.pdb
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/obj/Release/net6.0/PrimeNumber.csproj.AssemblyReference.cache
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/obj/Release/net6.0/PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/obj/Release/net6.0/PrimeNumber.AssemblyInfoInputs.cache
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/obj/Release/net6.0/PrimeNumber.AssemblyInfo.cs
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/obj/Release/net6.0/PrimeNumber.csproj.CoreCompileInputs.cache
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/obj/Release/net6.0/PrimeNumber.dll
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/obj/Release/net6.0/ref/PrimeNumber.dll
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/obj/Release/net6.0/PrimeNumber.pdb
+/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/obj/Release/net6.0/PrimeNumber.genruntimeconfig.cache

@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/helenali/Documents/git/PrimeNumber/PrimeNumber.Performance.Benchmarker/PrimeNumber.Performance.Benchmarker.csproj": {}
+  },
+  "projects": {
+    "/Users/helenali/Documents/git/PrimeNumber/PrimeNumber.Performance.Benchmarker/PrimeNumber.Performance.Benchmarker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/helenali/Documents/git/PrimeNumber/PrimeNumber.Performance.Benchmarker/PrimeNumber.Performance.Benchmarker.csproj",
+        "projectName": "PrimeNumber.Performance.Benchmarker",
+        "projectPath": "/Users/helenali/Documents/git/PrimeNumber/PrimeNumber.Performance.Benchmarker/PrimeNumber.Performance.Benchmarker.csproj",
+        "packagesPath": "/Users/helenali/.nuget/packages/",
+        "outputPath": "/Users/helenali/Documents/git/PrimeNumber/PrimeNumber.Performance.Benchmarker/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/helenali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/PrimeNumber.csproj": {
+                "projectPath": "/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/PrimeNumber.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.13.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/PrimeNumber.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/PrimeNumber.csproj",
+        "projectName": "PrimeNumber",
+        "projectPath": "/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/PrimeNumber.csproj",
+        "packagesPath": "/Users/helenali/.nuget/packages/",
+        "outputPath": "/Users/helenali/Documents/git/PrimeNumber/PrimeNumber/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/helenali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
